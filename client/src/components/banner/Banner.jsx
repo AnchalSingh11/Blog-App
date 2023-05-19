@@ -2,7 +2,7 @@
 import { styled, Box, Typography } from '@mui/material';
 
 const Image = styled(Box)`
-background-image: url(https://i.pinimg.com/originals/5e/b9/24/5eb924aee830d769dff1ad0997a99d25.gif);
+background-image: url(https://angiemakes.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-29-at-10.58.26-AM.png);
 width: 100%;
 height: 50vh;
 background-position: left 0px top -100px;

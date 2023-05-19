@@ -137,29 +137,18 @@ const About = () => {
         
                           <div class="team-item">
                           
-                              <img src="https://i.postimg.cc/bvCZQvzK/Whats-App-Image-2023-05-11-at-10-26-56-PM.jpg" class="team-img" alt="pic" />                   
-                              <h3>JOHNATHAN HAWKINS</h3>            
-                              <div class="team-info"><p>Head of SEO</p></div>
-                              <p>Johnathan is our  co-founder and has developed search strategies for a variety of clients from international brands to medium sized businesses for over five years.</p>
+                              <img src="https://i.postimg.cc/4yN0xD3c/himanshu1.jpg" class="team-img" alt="pic" />                   
+                              <h3>Himanshu Tiwari</h3>            
+                              <div class="team-info"><p>UI Developer and Content writer</p></div>
+                              <p>Hii, I am Final year student of BTech in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University, Lucknow. Currently I'm good at problem solving and logic building. I am interested in Software Development Engineering.I love to learn new things</p>
                           
                               <ul class="team-icon">
-                              
-                                  <li><a href="#" class="twitter" target="_blank">
-                                    <i class="fa fa-twitter"></i>
-                                </a></li>
+                              <li><a href="https://www.linkedin.com/in/anchal-singh-a38222237" class="twitter" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                   
-                                  <li><a href="#" class="pinterest" target="_blank">
-                                  <i class="fa fa-whatsapp"></i>
-                                </a></li>
-                                  
-                                  <li><a href="#" class="facebook" target="_blank">
-                                    <i class="fa fa-facebook"></i>
-                                </a></li>
-                                  
-                                  <li><a href="#" class="dribble" target="_blank">
+                                  <li><a href="https://github.com/AnchalSingh11" class="dribble" target="_blank">
                                   <i class="fa fa-github"></i>
                                 </a></li>
-                                  
+
                               </ul>
                               
                           
@@ -170,24 +159,20 @@ const About = () => {
         
                           <div class="team-item">
                           
-                              <img src="https://i.postimg.cc/zBLd89Lg/himanshu1.jpg" class="team-img" alt="pic" />
+                              <img src="https://i.postimg.cc/YCWJFSDt/image.png" class="team-img" alt="pic" />
                              
-                              <h3>ELISA JOHANSON</h3>
+                              <h3>Rati Singh</h3>
                               
-                              <div class="team-info"><p>Marketing Manager</p></div>
+                              <div class="team-info"><p>Frontend Developer & Content Writer</p></div>
         
-                              <p>Elisa first fell in love with digital marketing at the university. He loves to learn, and looks forward to being part of this new exciting industry for many years.</p>
+                              <p>I am a passionate and Ambitious student of Kashi institute of technology, final year student of B.Tech(Computer science and engineering).I would describe myself as a smart-working with dedication, honesty, high work ethics and morals which would make me an asset to any company that hires me.</p>
                           
                               <ul class="team-icon">
                               
-                                  <li><a href="#" class="twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                              <li><a href="https://www.linkedin.com/in/anchal-singh-a38222237" class="twitter" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                   
-                                  <li><a href="#" class="pinterest" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                  
-                                  <li><a href="#" class="facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                  
-                                  <li><a href="#" class="dribble" target="_blank">
-                                    <i class="fa fa-dribbble"></i>
+                                  <li><a href="https://github.com/AnchalSingh11" class="dribble" target="_blank">
+                                  <i class="fa fa-github"></i>
                                 </a></li>
                                   
                               </ul>

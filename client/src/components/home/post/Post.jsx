@@ -37,7 +37,7 @@ const Details = styled(Typography)`
 `;
 
 const Post = ({ post }) => {
-    const url = post.picture ? post.picture : 'https://i.pinimg.com/originals/5e/b9/24/5eb924aee830d769dff1ad0997a99d25.gif';
+    const url = post.picture ? post.picture : 'https://www.pngitem.com/pimgs/m/175-1757329_my-blog-logo-png-transparent-png.png';
     
     const addEllipsis = (str, limit) => {
         return str.length > limit ? str.substring(0, limit) + '...' : str;

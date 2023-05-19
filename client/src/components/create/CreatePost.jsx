@@ -59,7 +59,7 @@ const CreatePost = () => {
     const [file, setFile] = useState('');
     const { account } = useContext(DataContext);
 
-    const url = post.picture ? post.picture : 'https://cdn1.expresscomputer.in/wp-content/uploads/2021/03/24161759/EC_Artificial_Intelligence_750.jpg';
+    const url = post.picture ? post.picture : 'https://i.pinimg.com/originals/5e/b9/24/5eb924aee830d769dff1ad0997a99d25.gif';
     
     useEffect(() => {
         const getImage = async () => { 
